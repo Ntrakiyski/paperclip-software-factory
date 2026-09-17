@@ -5,6 +5,9 @@ republish transcripts or slides.
 
 ## The 34 talks we transcribed and read (~176,000 words)
 
+Machine-readable index of all 34 (series, title slug, URL, transcript word count):
+[`resources/talks.csv`](../resources/talks.csv).
+
 ### Build-in-public: a software factory shipped in two weeks (10 streams)
 
 The reference production for anyone starting: a note-taking app built in ten working days with
