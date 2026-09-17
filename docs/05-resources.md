@@ -5,8 +5,9 @@ republish transcripts or slides.
 
 ## The 34 talks we transcribed and read (~176,000 words)
 
-Machine-readable index of all 34 (series, title slug, URL, transcript word count):
-[`resources/talks.csv`](../resources/talks.csv).
+Machine-readable index of all 34 — series, title slug, URL, transcript size in bytes and words:
+[`resources/talks.csv`](../resources/talks.csv). Totals: **175,575 words across 895 KB** of transcript
+(sprint 60,658 · summit 77,120 · loops 37,797).
 
 ### Build-in-public: a software factory shipped in two weeks (10 streams)
 
